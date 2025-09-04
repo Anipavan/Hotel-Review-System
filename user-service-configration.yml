@@ -13,5 +13,5 @@ spring:
     show-sql: true
 
   application:
-    name: USER-SERVICE-configiuscgdsxvhj
+    name: USER-SERVICE
   
