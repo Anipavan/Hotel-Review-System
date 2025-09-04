@@ -12,4 +12,4 @@ spring:
       ddl-auto: update
     show-sql: true
   application:
-    name: application
+    name: USER-SERVICE-SIVA
