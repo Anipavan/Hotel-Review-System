@@ -2,6 +2,8 @@ server:
   port: 8081
 
 spring:
+  application:
+    name: USER-SERVICE-SIVA
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:orcl
     username: siva
@@ -11,5 +13,3 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-  application:
-    name: USER-SERVICE-SIVA
